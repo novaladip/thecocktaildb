@@ -1,0 +1,2 @@
+analyzer:
+  exclude: ["**/*.freezed.dart", "**/*.g.dart", "**/*.config.dart", "**/*generated_plugin_registrant.dart", "**/*.gen.dart"]
